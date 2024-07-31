@@ -21,5 +21,5 @@ https://restcountries.com/v3.1/name/deutschland
 
 ### Важно: На проверку предоставить: 
 
-- Сслыку для просмотра результата в браузере
+- Сслыку для просмотра результата в браузере [Ссылка на Netlify](https://test-task-countries.netlify.app/)
 - Source файлы проекта 
